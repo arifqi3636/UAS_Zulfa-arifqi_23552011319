@@ -1,5 +1,11 @@
 # 🐠 Sistem Informasi Peternakan Lele
 
+
+
+https://github.com/user-attachments/assets/b0d958cc-ce27-4f6e-8b65-039c31cfed40
+
+
+
 Sistem manajemen budidaya lele modern dengan dashboard interaktif dan laporan profesional.
 
 ## 🚀 Fitur Utama
